@@ -12,6 +12,8 @@ SSID :   Zatar
 Pass :   xxxxxxxxxxxxxxxx (白板を確認)
 |||
 
+# 本日のマテリアル
+https://github.com/shimauma-giken/Zebra-Printer-Easy-Setup-Guide-of-ZT411R-On-Metal
 
 # アンケート
 https://forms.office.com/r/pzCmgjMGaV
