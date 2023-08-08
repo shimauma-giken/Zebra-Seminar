@@ -13,10 +13,18 @@ Pass :   xxxxxxxxxxxxxxxx (白板を確認)
 |||
 
 # 本日のマテリアル
-https://github.com/shimauma-giken/Zebra-Printer-Easy-Setup-Guide-of-ZT411R-On-Metal
+
+https://github.com/shimauma-giken/Zebra-Printer_SDK_How-to-Print-with-1-Row-Coding-
+
+# 理解度チェックテスト
+
+https://forms.office.com/r/9Cg8bTbMWP
 
 # アンケート
-https://forms.office.com/r/pzCmgjMGaV
+
+https://forms.office.com/r/MUkFzuA9qi
+
+
 
 
  
