@@ -12,18 +12,33 @@ SSID :   Zatar
 Pass :   xxxxxxxxxxxxxxxx (白板を確認)
 |||
 
-# 本日のマテリアル
+</br>
 
-https://github.com/shimauma-giken/Zebra-Printer_SDK_How-to-Print-with-1-Row-Coding-
+# 実習マテリアル
+
+### 1.Bluetooth Scanner/ADF → Printer 
+スキャナのADFを活用して、ZPL印刷を実行する。
+
+https://github.com/shimauma-giken/Zebra-Printer_Demo-Print-from-Bluetooth-Direct-Connected-Scanner
+
+### 2. Bluetooth Scanner →  Printer/ZBI 
+スキャナデータをプリンタ側のZBIで処理。
+
+https://github.com/shimauma-giken/Zebra-Printer_Demo-Print-from-Bluetooth-Direct-Connected-Scanner-ZBI
+
+### 3. (BT Scanner → )Android/DWedge → Bluetooth Printer 
+
+https://github.com/shimauma-giken/Zebra-Printer_Android-Demo-Print-Apk-via-Bluetooth-Classic
+
+</br>
 
 # 理解度チェックテスト
 
-https://forms.office.com/r/9Cg8bTbMWP
+https://forms.office.com/r/vs3xptECXT
 
 # アンケート
 
-https://forms.office.com/r/MUkFzuA9qi
-
+https://forms.office.com/r/38eTHjwEcd
 
 
 
