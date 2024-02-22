@@ -1,7 +1,7 @@
 # 館内ルール
 
 1. 14F オフィスゾーンへの立ち入りは禁止です。
-1. トイレ、喫煙コーナーは1Fをご利用願います。
+1. トイレ、自動販売機、喫煙コーナーは1Fをご利用願います。
 
 
 # Wi-Fi 接続について
@@ -16,30 +16,21 @@ Pass :   xxxxxxxxxxxxxxxx (白板を確認)
 
 # 実習マテリアル
 
-### 1.Bluetooth Scanner/ADF → Printer 
-スキャナのADFを活用して、ZPL印刷を実行する。
+### 1.業界トレンドからゼブラRFIDソリューションの強みを理解する 
 
-https://github.com/shimauma-giken/Zebra-Printer_Demo-Print-from-Bluetooth-Direct-Connected-Scanner
+### 2. RFIDプリンタ設定講習
 
-### 2. Bluetooth Scanner →  Printer/ZBI 
-スキャナデータをプリンタ側のZBIで処理。
-
-https://github.com/shimauma-giken/Zebra-Printer_Demo-Print-from-Bluetooth-Direct-Connected-Scanner-ZBI
-
-### 3. (BT Scanner → )Android/DWedge → Bluetooth Printer 
-
-https://github.com/shimauma-giken/Zebra-Printer_Android-Demo-Print-Apk-via-Bluetooth-Classic
+https://github.com/shimauma-giken/Zebra-Printer_ZT411R_Easy-RFID-Configurator-with-ZSU
 
 </br>
 
 # 理解度チェックテスト
 
-https://forms.office.com/r/vs3xptECXT
+https://forms.office.com/r/Kh6iW4wk6T
 
 # アンケート
 
-https://forms.office.com/r/38eTHjwEcd
-
+https://forms.office.com/r/U78zkRDPib
 
 
  
