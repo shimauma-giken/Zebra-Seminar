@@ -14,7 +14,7 @@ Pass :   xxxxxxxxxxxxxxxx (白板を確認)
 
 </br>
 
-# 実習マテリアル
+# セミナー
 
 ### 1.業界トレンドからゼブラRFIDソリューションの強みを理解する 
 
@@ -30,7 +30,7 @@ https://forms.office.com/r/Kh6iW4wk6T
 
 # アンケート
 
-https://forms.office.com/r/U78zkRDPib
+https://forms.office.com/r/M57HqQ26Pt
 
 
  
