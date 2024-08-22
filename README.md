@@ -27,8 +27,8 @@
 
 |||
 |-|-|
-SSID :   Zatar
-Pass :   xxxxxxxxxxxxxxxx (白板を確認)
+| SSID |   Zatar
+| Pass |   xxxxxxxxxxxxxxxx (白板を確認)
 |||
 
 </br>
@@ -38,9 +38,9 @@ Pass :   xxxxxxxxxxxxxxxx (白板を確認)
 
 |||
 |-|-|
-server :   blacklily 192.168.4.133
-ID      : zebra
-Pass :   xxxxxxxxxxxxxxxx (白板を確認)
+|server |   blacklily 192.168.4.133
+|ID      | zebra
+|Pass |   xxxxxxxxxxxxxxxx (白板を確認)
 |||
 
 
