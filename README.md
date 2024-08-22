@@ -45,6 +45,4 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=CiY9TUCcBkONrA1kcXA57KEz8GAI
 
 ## ■ アンケートへのご協力お願いいたします。
 
-https://forms.office.com/r/M57HqQ26Pt
-
-<img width="400" src="./image-1.png">
+https://forms.office.com/Pages/ResponsePage.aspx?id=CiY9TUCcBkONrA1kcXA57KEz8GAIEfFNrN63gFd3rp9UOUFSTFVHQ05QVzY4N1BHUkZMU0xTMEREMi4u
