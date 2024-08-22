@@ -7,6 +7,7 @@
 
 https://github.com/shimauma-giken/Zebra-Printer_Set-Get-Recieveing-Printer-Status-and-Events
 
+<br>
 
 ## ■ 館内ルール
 
@@ -14,7 +15,7 @@ https://github.com/shimauma-giken/Zebra-Printer_Set-Get-Recieveing-Printer-Statu
 1. トイレ、自動販売機、喫煙コーナーは1Fをご利用願います。
 <br>
 
-## アンケート
+## ■ アンケート
 
 今後のセミナー運用改善のため、ご協力ください。
 
