@@ -3,17 +3,9 @@
 
 ## ■ セミナー
 
-### ゼブラ設置式RFIDリーダーの有効活用方法
+ハンズオン
 
-1. ゼブラのFXリーダとは︖
-2. デモを通して、読み取りパフォーマンスを体験
-   - 123RFID Desktop
-   - ブラウザアプリ
-   - 温度センサーRFタグ
-   - エンベデッドアプリ
-3. エンド様に選ばれるポイントをわかりやすく説明
-4. FAQを通して、RFIDお困りごとのディスカッション
-<br>
+https://github.com/shimauma-giken/Zebra-Printer_Set-Get-Recieveing-Printer-Status-and-Events
 
 
 ## ■ 館内ルール
@@ -21,6 +13,14 @@
 1. 14F オフィスゾーンへの立ち入りは禁止です。
 1. トイレ、自動販売機、喫煙コーナーは1Fをご利用願います。
 <br>
+
+## アンケート
+
+今後のセミナー運用改善のため、ご協力ください。
+
+https://forms.office.com/r/gvFxzF0txb
+
+
 
 
 ## ■ Wi-Fi 接続について
