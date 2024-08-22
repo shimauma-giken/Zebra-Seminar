@@ -34,6 +34,16 @@ Pass :   xxxxxxxxxxxxxxxx (白板を確認)
 </br>
 
 
+## ■ Linux Server 接続について
+
+|||
+|-|-|
+server :   blacklily 192.168.4.133
+ID      : zebra
+Pass :   xxxxxxxxxxxxxxxx (白板を確認)
+|||
+
+
 ## ■ アンケートへのご協力お願いいたします。
 
 https://forms.office.com/r/M57HqQ26Pt
