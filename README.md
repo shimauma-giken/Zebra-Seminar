@@ -19,9 +19,7 @@ https://github.com/shimauma-giken/Zebra-Printer_Set-Get-Recieveing-Printer-Statu
 
 今後のセミナー運用改善のため、ご協力ください。
 
-https://forms.office.com/r/gvFxzF0txb
-
-
+https://forms.office.com/Pages/ResponsePage.aspx?id=CiY9TUCcBkONrA1kcXA57KEz8GAIEfFNrN63gFd3rp9UOUFSTFVHQ05QVzY4N1BHUkZMU0xTMEREMi4u
 
 
 ## ■ Wi-Fi 接続について
