@@ -5,7 +5,11 @@
 
 ハンズオン
 
-https://github.com/shimauma-giken/Zebra-Printer_Set-Get-Recieveing-Printer-Status-and-Events
+- ZT Users  
+https://github.com/shimauma-giken/Zebra-Printer_ZD621R_Easy-RFID-Configurator-with-ZSU_v3  
+</br>
+- ZD Users  
+https://github.com/shimauma-giken/Zebra-Printer_ZT411R_Easy-RFID-Configurator-with-ZSU_v3
 
 <br>
 
@@ -19,8 +23,7 @@ https://github.com/shimauma-giken/Zebra-Printer_Set-Get-Recieveing-Printer-Statu
 
 今後のセミナー運用改善のため、ご協力ください。
 
-https://forms.office.com/Pages/ResponsePage.aspx?id=CiY9TUCcBkONrA1kcXA57KEz8GAIEfFNrN63gFd3rp9UOUFSTFVHQ05QVzY4N1BHUkZMU0xTMEREMi4u
-
+[アンケートリンク](https://forms.office.com/r/w8xbm0kEjK)
 
 ## ■ Wi-Fi 接続について
 
@@ -43,6 +46,3 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=CiY9TUCcBkONrA1kcXA57KEz8GAI
 |||
 
 
-## ■ アンケートへのご協力お願いいたします。
-
-https://forms.office.com/Pages/ResponsePage.aspx?id=CiY9TUCcBkONrA1kcXA57KEz8GAIEfFNrN63gFd3rp9UOUFSTFVHQ05QVzY4N1BHUkZMU0xTMEREMi4u
