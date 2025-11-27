@@ -1,14 +1,14 @@
 # 本日はゼブラ・テクノロジーズ・ジャパンのセミナーにご参加いただきありがとうございます。
 <br>
 
-## ■ セミナー
+## ■ セミナー資料へのリンク
 
 ハンズオン
 
-- ZT Users  
+- ZT Users  </br>
 https://github.com/shimauma-giken/Zebra-Printer_ZD621R_Easy-RFID-Configurator-with-ZSU_v3  
 </br>
-- ZD Users  
+- ZD Users</br>  
 https://github.com/shimauma-giken/Zebra-Printer_ZT411R_Easy-RFID-Configurator-with-ZSU_v3
 
 <br>
@@ -23,7 +23,11 @@ https://github.com/shimauma-giken/Zebra-Printer_ZT411R_Easy-RFID-Configurator-wi
 
 今後のセミナー運用改善のため、ご協力ください。
 
+アンケート特典：セミナー資料（pdf)
+
 [アンケートリンク](https://forms.office.com/r/w8xbm0kEjK)
+
+</br>
 
 ## ■ Wi-Fi 接続について
 
@@ -40,7 +44,7 @@ https://github.com/shimauma-giken/Zebra-Printer_ZT411R_Easy-RFID-Configurator-wi
 
 |||
 |-|-|
-|server |   blacklily 192.168.4.133
+|server |   N/A
 |ID      | zebra
 |Pass |   xxxxxxxxxxxxxxxx (白板を確認)
 |||
