@@ -5,11 +5,11 @@
 
 ハンズオン
 
-- ZT Users  </br>
+- ZD Users  </br>
 https://github.com/shimauma-giken/Zebra-Printer_ZD621R_Easy-RFID-Configurator-with-ZSU_v3  
 </br>
 
-- ZD Users </br>
+- ZT Users </br>
 https://github.com/shimauma-giken/Zebra-Printer_ZT411R_Easy-RFID-Configurator-with-ZSU_v3
 
 <br>
